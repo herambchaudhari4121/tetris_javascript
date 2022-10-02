@@ -1,4 +1,15 @@
 # tetris_javascript
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Tetris Javascript</h2>
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GJi6I7Wf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/fnfgwoh74wzz0iyt6zkp.jpeg" alt="W3Schools.com" style="width:604px;height:542px;">
+
+</body>
+</html>
+
 This is a famous brick game tetris made using vanilla javascript https://sad-swanson-c56815.netlify.app/
 
 ## Description
